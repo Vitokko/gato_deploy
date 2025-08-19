@@ -16,9 +16,10 @@ npm install
 npm run dev
 ```
 ## Build
+```
 npm run build
 npm run preview
-
+```
 <img width="991" height="888" alt="image" src="https://github.com/user-attachments/assets/b77635c5-493d-47e0-b3a7-cb191747c3e8" />
 
 ## Estructura de carpetas
