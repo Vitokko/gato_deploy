@@ -11,7 +11,7 @@ Mini juego con:
 React 18 · Vite · CSS
 
 ## Ejecutar local
-```bash
+```
 npm install
 npm run dev
 ```
