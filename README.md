@@ -14,3 +14,4 @@ React 18 · Vite · CSS
 ```bash
 npm install
 npm run dev
+```
